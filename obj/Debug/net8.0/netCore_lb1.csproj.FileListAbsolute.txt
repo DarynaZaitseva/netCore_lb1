@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\netCore_lb1\bin\Debug\net8.0\netCore_lb1.exe
+C:\Users\Acer\source\repos\netCore_lb1\bin\Debug\net8.0\netCore_lb1.deps.json
+C:\Users\Acer\source\repos\netCore_lb1\bin\Debug\net8.0\netCore_lb1.runtimeconfig.json
+C:\Users\Acer\source\repos\netCore_lb1\bin\Debug\net8.0\netCore_lb1.dll
+C:\Users\Acer\source\repos\netCore_lb1\bin\Debug\net8.0\netCore_lb1.pdb
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\netCore_lb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\netCore_lb1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\netCore_lb1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\netCore_lb1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\netCore_lb1.dll
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\refint\netCore_lb1.dll
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\netCore_lb1.pdb
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\netCore_lb1.genruntimeconfig.cache
+C:\Users\Acer\source\repos\netCore_lb1\obj\Debug\net8.0\ref\netCore_lb1.dll
